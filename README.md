@@ -1,3 +1,3 @@
-# Olá, Mundo!
+# Olá, Mundo! 🌎
  
- Este foi meu primeiro repositório criado no GitHub.
+Este foi meu primeiro repositório criado no GitHub.
